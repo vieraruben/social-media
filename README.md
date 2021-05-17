@@ -13,3 +13,7 @@ Deploy
 
 Demo Link
  https://vieraruben.github.io/social-media/ 
+
+Demo User
+ - Email: testing@gmail.com
+ - Password: testing
